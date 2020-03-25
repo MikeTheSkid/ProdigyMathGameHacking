@@ -1,0 +1,2 @@
+Phaser.GAMES[0].prodigy.battle.constructor.MOD_DEFAULTS.level = () =>
+Phaser.GAMES[0].prodigy.battle.constructor.MOD_DEFAULTS.level = 0
