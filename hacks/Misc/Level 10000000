@@ -1,0 +1,2 @@
+Makes your level 1000000000 (Doesn't Save)
+hack.instance.prodigy.player.getLevel = () => hack.instance.prodigy.player.data.level=1000000000
